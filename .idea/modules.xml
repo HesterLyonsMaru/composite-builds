@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/composite-builds.iml" filepath="$PROJECT_DIR$/composite-builds.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/libraryproject/libraryproject.iml" filepath="$PROJECT_DIR$/.idea/modules/libraryproject/libraryproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/libraryproject/libraryproject.main.iml" filepath="$PROJECT_DIR$/.idea/modules/libraryproject/libraryproject.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/libraryproject/libraryproject.test.iml" filepath="$PROJECT_DIR$/.idea/modules/libraryproject/libraryproject.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/testproject/testproject.iml" filepath="$PROJECT_DIR$/.idea/modules/testproject/testproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/testproject/testproject.main.iml" filepath="$PROJECT_DIR$/.idea/modules/testproject/testproject.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/testproject/testproject.test.iml" filepath="$PROJECT_DIR$/.idea/modules/testproject/testproject.test.iml" />
+    </modules>
+  </component>
+</project>

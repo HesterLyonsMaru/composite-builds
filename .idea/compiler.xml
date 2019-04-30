@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="libraryproject.main" target="1.8" />
+      <module name="libraryproject.test" target="1.8" />
+      <module name="moduleproject.main" target="1.8" />
+      <module name="moduleproject.test" target="1.8" />
+      <module name="testing-libraryproject.main" target="1.8" />
+      <module name="testing-libraryproject.test" target="1.8" />
+      <module name="testing-moduleproject.main" target="1.8" />
+      <module name="testing-moduleproject.test" target="1.8" />
+      <module name="testproject.main" target="1.8" />
+      <module name="testproject.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
